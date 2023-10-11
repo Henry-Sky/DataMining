@@ -1,1 +1,3 @@
-# DateMining
+# DataMining
+
+Homework for DataMining class
