@@ -12,10 +12,10 @@
 
 ## 理论内容
 
-1. 数据分析
-2. 数据预处理
-3. 分类与回归
-4. 聚类分析
+1. [数据分析](https://github.com/Henry-Sky/DataProbe/blob/master/index/index01.md)
+2. [数据预处理](https://github.com/Henry-Sky/DataProbe/blob/master/index/index02.md)
+3. [分类与回归](https://github.com/Henry-Sky/DataProbe/blob/master/index/index03.md)
+4. [聚类分析](https://github.com/Henry-Sky/DataProbe/blob/master/index/index04.md)
 
 ## 实验内容简介
 Exper01:
